@@ -3,3 +3,4 @@ created for fun
 rewrite
 #code
 vscode
+fuzzy logic
