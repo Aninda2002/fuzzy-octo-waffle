@@ -5,4 +5,4 @@ rewrite
 vscode
 fuzzy logic 
 smarthphone
-1
+1 2
