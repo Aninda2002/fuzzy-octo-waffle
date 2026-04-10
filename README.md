@@ -4,5 +4,4 @@ rewrite
 #code
 vscode
 fuzzy logic 
-smarthphone
 1 2
