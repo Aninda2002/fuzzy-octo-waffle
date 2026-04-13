@@ -4,4 +4,3 @@ rewrite
 #code
 vscode
 fuzzy logic 
-1 2
